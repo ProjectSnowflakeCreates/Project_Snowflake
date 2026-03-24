@@ -6,7 +6,6 @@
 <li>Real-time updates on door security analysis.</li>
 <li>Intruder Alerts and notifications.</li>
 <li>Alarm systems that come with the device.</li>
-
 <div>
 <p>This app along side the device will give you reasurance and the peace ofmind af you home
 being protected.They will allow you, your visting freind and visiting family safety within
