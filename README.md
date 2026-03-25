@@ -14,3 +14,5 @@ it will be linked to.</p>
 </body>
 <h1>Door counter</h1>   <H1>To be woked on...</H1>
 
+<h1> Buttons</h1>
+<h2>Disable/Enable Counter</h2> <h2>Disale/Enable Alarm</h2> <h2>Save Counter</h2>
