@@ -16,3 +16,6 @@ it will be linked to.</p>
 
 <h1> Buttons</h1>
 <h2>Disable/Enable Counter</h2> <h2>Disale/Enable Alarm</h2> <h2>Save Counter</h2>
+
+<p>Note: Buttons are still being worked on.</p>
+ <p>This app still needs features to be added and will be tested. Sub-Features will be added until Actual Features are made.</p>
