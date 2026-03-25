@@ -19,3 +19,4 @@ it will be linked to.</p>
 
 <p>Note: Buttons are still being worked on.</p>
  <p>This app still needs features to be added and will be tested. Sub-Features will be added until Actual Features are made.</p>
+<p>A better appearance for the app will be added. I will also attempt to add animations for loading screens.</p>
