@@ -22,7 +22,7 @@ it will be linked to.</p>
 <h3>Door counter</h3>   <h3>To be woked on...</h3>
 
 <h2 id="buttons">Buttons</h2>
-<h3>Disable/Enable Counter</h3> <h3>Disale/Enable Alarm</h3> <h3>Save Counter</h3>
+<h3>Disable/Enable Counter</h3> <h3>Disale/Enable Alarm</h3> <h3>Save Counter</h3> <h3>Alarm off</h3>
 
 <p>Note: Buttons are still being worked on.</p>
  <p>This app still needs features to be added and will be tested. Sub-Features will be added until Actual Features are made.</p>
